@@ -55,8 +55,6 @@ public class MainActivity extends AppCompatActivity  {
         AudienceNetworkAds.initialize(this);
         AdSettings.setIntegrationErrorMode(INTEGRATION_ERROR_CRASH_DEBUG_MODE);
         AdSettings.addTestDevice("65f07fc3-1f8c-4a08-815a-49bc93c63a54");
-        AdSettings.addTestDevice("cd683b7d-35e6-4ffb-bd94-10ca1ad1abe1");
-        AdSettings.addTestDevice("bd2c454d-e580-4633-ada2-dba7898b33dd");
 
 
         clickListenerHelper = new ClickListenerHelper(MainActivity.this, this);

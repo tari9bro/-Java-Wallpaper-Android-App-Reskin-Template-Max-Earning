@@ -1,6 +1,6 @@
 [versions]
 activityCompose = "1.9.0"
-agp = "8.4.1"
+agp = "8.8.1"
 audienceNetworkSdk = "6.15.0"
 composeBom = "2023.08.00"
 composeBomVersion = "2024.05.00"
